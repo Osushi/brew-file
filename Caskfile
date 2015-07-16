@@ -5,22 +5,23 @@
 install caskroom/cask/brew-cask
 
 # Apps installed directly instead of by Cask in brew-cask
-#cask install appcleaner #/Applications/AppCleaner.app
-#cask install atom #/Applications/Atom.app
+cask install appcleaner #/Applications/AppCleaner.app
+cask install atom #/Applications/Atom.app
+cask install dropbox #/Applications/Dropbox.app
+cask install filezilla #/Applications/FileZilla.app
+cask install firefox #/Applications/Firefox.app
+cask install flash
+cask install github #/Applications/GitHub.app
+cask install google-chrome #/Applications/Google Chrome.app
+cask install imageoptim #/Applications/ImageOptim.app
+cask install iterm2 #/Applications/iTerm.app
+cask install libreoffice #/Applications/LibreOffice.app
+cask install skype #/Applications/Skype.app
+cask install sublime-text #/Applications/Sublime Text 2.app
+cask install vlc #/Applications/VLC.app
 #cask install boot2docker #/Applications/boot2docker.app
-#cask install dropbox #/Applications/Dropbox.app
-#cask install filezilla #/Applications/FileZilla.app
-#cask install firefox #/Applications/Firefox.app
-#cask install github #/Applications/GitHub.app
-#cask install google-chrome #/Applications/Google Chrome.app
-#cask install imageoptim #/Applications/ImageOptim.app
-#cask install iterm2 #/Applications/iTerm.app
-#cask install libreoffice #/Applications/LibreOffice.app
 #cask install powerphotos #/Applications/Photos.app
-#cask install skype #/Applications/Skype.app
-#cask install sublime-text #/Applications/Sublime Text 2.app
 #cask install virtualbox #/Applications/VirtualBox.app
-#cask install vlc #/Applications/VLC.app
 #cask install wireshark #/Applications/Wireshark.app
 #cask install xquartz #/Applications/Utilities/XQuartz.app
 
