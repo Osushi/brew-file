@@ -10,7 +10,6 @@ cask install atom #/Applications/Atom.app
 cask install dropbox #/Applications/Dropbox.app
 cask install filezilla #/Applications/FileZilla.app
 cask install firefox #/Applications/Firefox.app
-cask install flash
 cask install github #/Applications/GitHub.app
 cask install google-chrome #/Applications/Google Chrome.app
 cask install imageoptim #/Applications/ImageOptim.app
