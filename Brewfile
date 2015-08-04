@@ -54,6 +54,7 @@ brew libpng
 brew libtasn1
 brew libtool
 brew libyaml
+brew memcached
 brew mysql
 brew nettle
 brew nkf
