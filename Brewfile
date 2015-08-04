@@ -69,6 +69,7 @@ brew tmux
 brew unixodbc
 brew wget
 brew xz
+brew yuicompressor
 brew zsh
 
 # App Store applications
