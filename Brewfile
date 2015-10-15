@@ -71,6 +71,7 @@ brew wget
 brew xz
 brew yuicompressor
 brew zsh
+brew tree
 
 # App Store applications
 appstore Alfred
