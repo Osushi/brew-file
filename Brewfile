@@ -72,6 +72,7 @@ brew xz
 brew yuicompressor
 brew zsh
 brew tree
+brew elasticsearch
 
 # App Store applications
 appstore Alfred
